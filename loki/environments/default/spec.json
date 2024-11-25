@@ -7,7 +7,7 @@
   },
   "spec": {
     "apiServer": "https://127.0.0.1:50759",
-    "namespace": "default",
+    "namespace": "loki",
     "resourceDefaults": {},
     "expectVersions": {}
   }

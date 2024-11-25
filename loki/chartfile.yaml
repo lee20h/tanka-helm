@@ -6,5 +6,5 @@ repositories:
   url: https://grafana.github.io/helm-charts
 requires:
 - chart: grafana/loki
-  version: 6.19.0
+  version: 6.21.0
 version: 1
